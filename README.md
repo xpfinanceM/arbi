@@ -5,12 +5,12 @@ ARB bot to detect arbitrage oportunities in varios EVM networks in DEX's that re
 1. Clone the repository
 2. Install dependencies with `npm install`
 3. Configure environment variables
-4. Run the project with `node index.js`
+4. Run the project with `node quoteAllPools.js`
 
 
 Next features
 
-- track SOlana pools
+- track Solana pools
 - automatize the transactions
 - visualize the pools behavior with graphs
 
